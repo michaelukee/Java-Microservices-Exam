@@ -1,7 +1,7 @@
-#Java Microservices Coding Exam
+# Java Microservices Coding Exam
 Create two (2) services Account Creation Service and Customer Inquiry Service using Java 8, Spring Boot 2.6, and H2 Database.
 
-##API Specification
+## API Specification
 | Field              | Type       | Required - Validated        |
 |--------------------|------------|-----------------------------|
 | customerName       | Char (50)  | Y-N\A                       |
